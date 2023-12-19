@@ -244,4 +244,3 @@ const Uncontrolled = () => {
 export default Uncontrolled
 ```
 
----
